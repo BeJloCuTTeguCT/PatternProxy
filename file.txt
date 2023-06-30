@@ -1,0 +1,10 @@
+{
+    "Site.ru": {
+        "login": "admin",
+        "password": "A123456a"
+    },
+    "DNS": {
+        "first": "77.88.8.8",
+        "second": "8.8.8.8"
+    }
+}
